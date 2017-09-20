@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jdbc:sqlite:/home/whyc/workspaces/uiautomator/CREATE TABLE `users` (     `id` int(11) NOT NULL AUTO_INCREMENT,     `email` varchar(255) COLLATE utf8_bin NOT NULL,     `password` varchar(255) COLLATE utf8_bin NOT NULL,     PRIMARY KEY (`id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=1 ;" uuid="ccc9f30f-05aa-437b-a580-a61b7be6bea0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>whyc</user-name>
+    </data-source>
+  </component>
+</project>

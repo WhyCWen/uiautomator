@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:sqlite:/home/whyc/workspaces/uiautomator/CREATE TABLE `users` (     `id` int(11) NOT NULL AUTO_INCREMENT,     `email` varchar(255) COLLATE utf8_bin NOT NULL,     `password` varchar(255) COLLATE utf8_bin NOT NULL,     PRIMARY KEY (`id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=1 ;" uuid="ccc9f30f-05aa-437b-a580-a61b7be6bea0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/CREATE TABLE `users` (     `id` int(11) NOT NULL AUTO_INCREMENT,     `email` varchar(255) COLLATE utf8_bin NOT NULL,     `password` varchar(255) COLLATE utf8_bin NOT NULL,     PRIMARY KEY (`id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=1 ;</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
